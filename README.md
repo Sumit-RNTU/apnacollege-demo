@@ -1,3 +1,4 @@
 # apnacollege-demo
-<br>
-This is my first repository
+This is my first Git repository.
+
+Author-Sumit kumar singh
